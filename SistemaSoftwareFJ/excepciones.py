@@ -1,4 +1,4 @@
-# EXCEPCIONES PERSONALIZADAS
+# Excepciones personalizadas
 
 class ClienteInvalidoError(Exception):
     pass
