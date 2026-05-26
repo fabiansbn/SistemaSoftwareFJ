@@ -1,0 +1,32 @@
+Cliente creado correctamente
+Servicio creado correctamente
+Reserva creada correctamente
+Reserva confirmada
+Programa finalizado
+Cliente creado correctamente
+Servicio creado correctamente
+Reserva creada correctamente
+Reserva confirmada
+Programa finalizado
+Cliente registrado
+Operación ejecutada
+ERROR: Correo inválido
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
+Cliente registrado
+Operación ejecutada
